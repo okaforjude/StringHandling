@@ -1,4 +1,4 @@
-### StringHandling
+### String Handling
 
 This program reads in a string and makes each alternate character an UPPERCASE character and each other
 alternate character a lowercase character (e.g, the string “Hello World” would become “HeLlO WoRlD”).
